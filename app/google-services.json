@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214833852334",
+    "project_id": "monitoringdetakjantung3",
+    "storage_bucket": "monitoringdetakjantung3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214833852334:android:ecd5d13167fb1f6799a23f",
+        "android_client_info": {
+          "package_name": "com.example.monitoringdetakjantung3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHrHUSaddRHecIXaOgMf80LQ536okP5pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214833852334:android:d90f0b36a6dbe60b99a23f",
+        "android_client_info": {
+          "package_name": "com.example.monitoringdetakjantungfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHrHUSaddRHecIXaOgMf80LQ536okP5pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
